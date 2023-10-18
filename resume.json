@@ -1,0 +1,75 @@
+{
+  "Name": "Gokul K",
+  "Gender": "Male",
+  "Contact details":{
+           "Mobile" : "9050505050",
+           "Email Id": "gokul@gmail.com",
+   },
+  "Summary" : "Hello, I'm Gokul k a Software engineer with a script development experience and also worked on application testing as well",
+  "Skills" : ["Python","Javascript"],
+  "work": [ 
+     {
+       "name" : "CG",
+       "location": "Chennai",
+       "position": "Associate-II engineer",
+       "JoinDate": "2021-06",
+       "summary": "Scripts development with python, Developing APIs with Flask and worked on application testing as well",
+       "highlights": [
+           "Experienced in Software Development.", 
+           "Python Development and Scripts Developments", 
+       "API Development using FLASK Framework.",
+           "Application testing", 
+           ]
+      }
+    ],        
+    "education": [ { 
+         "college" : "SRM Valliammi Engineering College",
+          "branch" : "BE-ECE",
+          "Passed-out": "2020",
+          "CGPA": "7.25",
+        }
+     ],
+     "skills": [
+      {
+        "name": "software Development",
+        "keywords": [
+            "Python",
+            "Python based script develepment",
+            "Flask api development",
+            "Pytest",
+            "Application Testing",
+        ]
+      }
+    ],
+
+    "Languages" : [
+       {
+         "language": [ "English", "Tamil" ] 
+       }
+      ],
+
+    "projects": [
+        {
+          "name" : "INM-NMS",
+          "description": "The NMS application for monitoring and configuring the router",
+          "highlights": [
+           "Experienced in Software Development.", 
+           "Python Development and Scripts Developments", 
+       "API Development using FLASK Framework.",
+           "Application testing", 
+           ],
+           "role": "Associate-II",
+         }
+        ],
+             
+}
+
+
+            
+
+
+}
+  
+  
+
+   
